@@ -11,7 +11,7 @@ try{
         }
     }
     
-    console.log(isJavaScriptFile(77));
+    console.log(isJavaScriptFile("image.js.png"));
 }
 catch(error){
     console.log("Please provide a right input")

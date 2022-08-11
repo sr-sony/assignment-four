@@ -8,7 +8,7 @@ try{
         return degree.toFixed(2);
     }
     
-    let degree = radianToDegree(10);
+    let degree = radianToDegree(199);
     console.log(degree)
 }
 

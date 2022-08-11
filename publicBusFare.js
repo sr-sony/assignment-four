@@ -20,6 +20,7 @@ try{
 
         return totalPublicBusFare;
     }
+    console.log(publicBusFare(365))
 }
 
 catch(error){

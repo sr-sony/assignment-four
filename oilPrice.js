@@ -22,6 +22,7 @@ try{
     
         return totalOilPrice;
     }
+    console.log(oilPrice(0,2,3))
 }
 
 catch(error){
